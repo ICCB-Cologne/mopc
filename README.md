@@ -6,5 +6,5 @@ For general use, use the following link: https://www.mop-c.com/
 This repository was created jointly with the underlying submission of the study, which will be made available as a link here upon publication. 
 
 Contributors:
-Teodora Bucaciuc, Roland Schwarz \
+Teodora Bucaciuc, Roland Schwarz.  
 Institute for Computational Cancer Biology, University Hospital of Cologne
