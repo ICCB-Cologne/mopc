@@ -1,4 +1,5 @@
-# MOP-C v0.3 - Molecular Prognostic Index for Central Nervous System Lymphomas
+# MOP-C - Molecular Prognostic Index for Central Nervous System Lymphomas
+**Version 0.3**
 
 This repository contains the Shiny Python app MOP-C for predicting patient outcome and risk in lymphomas of the central nervous system, based on plasma and cerebrospinal fluid circulating tumor DNA sequencing. Based on user input the tool will output a patient-specific score describing the relapse risk of the patient and the risk category.
 For general use, use the following link: https://www.mop-c.com/
