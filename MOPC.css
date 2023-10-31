@@ -1,0 +1,18 @@
+h1 {
+    font-size: x-large;
+    font-weight: bold;
+}
+h2 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.indent {
+    margin-left:50px;
+}
+
+.centered-div {
+    width: 75%;
+    margin: 0 auto;
+    max-width: 1000px;
+}
