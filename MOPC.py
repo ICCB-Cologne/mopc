@@ -13,7 +13,7 @@ app_ui = ui.page_fluid(
     ui.br(),
     ui.p(),
     ui.h1("Welcome to MOP-C v0.3"),
-    ui.p("MOP-C predicts risk of relapse in patients with CNS lymphoma. MOP-C includes clinical and molecular features assessed at baseline, after one cycle of therapy and at the end of induction therapy (Heger et al., Blood, 2023)."),
+    ui.p("MOP-C predicts risk of relapse in patients with CNS lymphoma. MOP-C includes clinical and molecular features assessed at baseline, after one cycle of therapy and at the end of induction therapy (Heger JM et al., Blood, 2023)."),
     #ui.p("This webtool allows users to predict risk of relapse in a patient with CNS lymphoma given that all required variables are available."),
     
     ui.strong("Important notes"),
@@ -89,7 +89,7 @@ app_ui = ui.page_fluid(
          ui.tags.br(), ui.tags.br(), ui.tags.u("Code available"), " on ", ui.a("https://github.com/schwarzlab/MOP-C", href="https://github.com/schwarzlab/MOP-C"), 
          " under MIT license. """, ui.tags.u("Technical contact:"), " roland.schwarz@iccb-cologne.org."), 
     ui.p("Predictive model and clinical interpretation by Jan-Michel Heger and Sven Borchman, ", ui.a("Borchmann Lab", href="https://sven-borchmann.owlstown.net", target="_blank"), ", Department of Internal Medicine I, Center for Integrated Oncology (CIO), University Hospital Cologne, Germany. ", ui.tags.u("Contact:"), " sven.borchmann@uk-koeln.de."),
-    ui.p(ui.tags.u("Publication: "), "Heger M et al. ", ui.em("Entirely noninvasive outcome prediction in central nervous system lymphomas using circulating tumor DNA. "),"Blood 2023."), style='text-align: left;')
+    ui.p(ui.tags.u("Publication: "), "Heger JM et al. ", ui.em("Entirely noninvasive outcome prediction in central nervous system lymphomas using circulating tumor DNA. "),"Blood 2023."), style='text-align: left;')
     )
 )
 
