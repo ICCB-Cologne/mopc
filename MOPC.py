@@ -86,7 +86,7 @@ app_ui = ui.page_fluid(
     ui.p("""MOP-C Shiny app implementation by Teodora Bucaciuc and Roland Schwarz, (c) """, ui.a("Schwarzlab", href="http://schwarzlab.de", target="_blank"), 
          """ 2023, Institute for Computational Cancer Biology (ICCB, """, ui.a("https://iccb-cologne.org", href="https://iccb-cologne.org"), """), Center for Integrated Oncology (CIO), 
          Cancer Research Center Cologne Essen (CCCE), Faculty of Medicine and University Hospital Cologne, University of Cologne, Germany. """, 
-         ui.tags.br(), ui.tags.br(), ui.tags.u("Code available"), " on ", ui.a("https://github.com/schwarzlab/MOP-C", href="https://github.com/schwarzlab/MOP-C"), 
+         ui.tags.br(), ui.tags.br(), ui.tags.u("Code available"), " on ", ui.a("https://github.com/iccb-cologne/mopc", href="https://github.com/iccb-cologne/mopc"), 
          " under MIT license. """, ui.tags.u("Technical contact:"), " roland.schwarz@iccb-cologne.org."), 
     ui.p("Predictive model and clinical interpretation by Jan-Michel Heger and Sven Borchman, ", ui.a("Borchmann Lab", href="https://sven-borchmann.owlstown.net", target="_blank"), ", Department of Internal Medicine I, Center for Integrated Oncology (CIO), University Hospital Cologne, Germany. ", ui.tags.u("Contact:"), " sven.borchmann@uk-koeln.de."),
     ui.p(ui.tags.u("Publication: "), "Heger JM et al. ", ui.em("Entirely noninvasive outcome prediction in central nervous system lymphomas using circulating tumor DNA. "),"Blood 2023."), style='text-align: left;')
